@@ -1,0 +1,27 @@
+For each item in the question list, choose the item from the list of potential responses that best matches the question item.
+
+No item from the potential responses should be used more than once.
+
+List of potential responses:
+
+1. induction
+2. syntax checking
+3. abstraction
+4. lexical scoping
+5. constant time
+6. linear time
+7. logarithmic time
+8. Newton's method
+9. glass box testing
+10. black box testing
+11. unit testing
+12. integration testing
+13. cloning
+14. mutation
+
+
+Question list:
+1. specification
+2. binary search
+3. recursion
+4. successive approximati
